@@ -16,4 +16,21 @@ this.soma=this.num1+this.num2
 
 }
 
+subtrair(){
+
+this.soma=this.num1-this.num2
+
+}
+multiplicar(){
+
+this.soma=this.num1*this.num2
+
+}
+dividir(){
+
+this.soma=this.num1/this.num2
+
+}
+
+
 }
